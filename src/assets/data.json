@@ -1,18 +1,18 @@
 {
     "projects": [
         {
-            "date": "07/04/2023",
+            "date": "23/03/2023",
             "title": "COURSE BUNDLER",
             "description": "This is a sample description of a project details. the more details .",
             "url": "https://coursebundler-ui.vercel.app",
             "imgUrl": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
         },
         {
-            "date": "07/04/2023",
-            "title": "COURSE BUNDLER",
+            "date": "15/04/2023",
+            "title": "REACT FIRST APP",
             "description": "This is a sample description of a project details. the more details .",
-            "url": "https://coursebundler-ui.vercel.app",
-            "imgUrl": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+            "url": "https://react-one-eight.vercel.app",
+            "imgUrl": "https://cdn.pixabay.com/photo/2015/01/20/14/27/office-605503_1280.jpg"
         }
     ]
 }
